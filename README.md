@@ -1,3 +1,5 @@
-If you'd like to use this, send me a DM or email, whichever you prefer, and then receive the APK file I provide. It's virus-free and safe. 
+# What is this?????
+This is a simple resource web to test how Acedroid works and functions as an app web.
 
-<img width="1077" height="4702" alt="113307" src="https://github.com/user-attachments/assets/e6daccc4-5b72-4850-81b7-a89fdbcc99ae" />
+# app Release?
+I plan to release an app someday. But I might not.
